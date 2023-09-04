@@ -3,7 +3,7 @@
     margin: 0;
 }
 
-@media (min-width:330px) and (max-width:530px) {
+@media (min-width:300px) and (max-width:530px) {
     .header1 h1 {
         font-size: xx-large;
     }
